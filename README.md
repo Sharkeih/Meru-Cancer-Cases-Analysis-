@@ -4,6 +4,9 @@
 
 The data, documents cancer cases within Meru county and its environs.We aim at using the estimated cancer cases to obtain data-driven insights by investigating the outcomes based on gender,age, cancer types and subcounty so as to identify trends and provide insights on the likelihood and prevalence of various cancer types.
 
+![Meru Cancer Analysis Dashboard](https://github.com/user-attachments/assets/8c65cc48-7003-499c-818a-5f6b940f730b)
+
+
 ### Data Sources
 
 The dataset was obtained from "**The state of cancer in Meru,Kenya.csv**" file containing detailed data on various cancer types recorded per subcounty in the year between 2003 and 2018.
