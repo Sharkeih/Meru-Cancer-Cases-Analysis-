@@ -64,7 +64,7 @@ Some of the analysis derived are as follows:
   
   Based on the analysis,I recommend the following actions:
   
-1. There's need to carry out forums and workshops on population-based cancer research.
+1. Need to carry out forums and workshops on population-based cancer research.
 2. Creating public awareness on early signs and symptoms and instill lifestyle behaviours to curb the menace.
 
    
